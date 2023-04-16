@@ -1,3 +1,3 @@
-# sumNumbersMultiple3or5
+# Testing with jest
 
-a function to get sum of all numbers multiple of 3 or 5, using JEST to test code.
+A practice of testing a easy script using jest
